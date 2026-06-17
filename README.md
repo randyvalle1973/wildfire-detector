@@ -132,6 +132,7 @@ The predictive engine interprets 11 distinct input variables to evaluate environ
 
 ## 👥 Contributors
 Ariel David Marin Batista  Github user: ArielDavidXD
+Randy Valle Lopez Github user: randyvalle1973
 
 
 * **Final Project for Numerical Mathematics.**
